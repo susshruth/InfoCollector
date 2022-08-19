@@ -1,0 +1,32 @@
+#form-page{
+    background-color: white;
+    width: 23%;
+    height: 60%;
+    margin-left: 40vmax;
+    margin-top: 15%;
+    padding: 1%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Caveat', cursive;
+    font-family: 'Nunito', sans-serif;
+    text-align: left;
+}
+h1{
+    font-family: 'Nunito', sans-serif;
+}
+/* button{
+    background-color: white;
+    border-radius: 20%;
+    border-color: green;
+} */
+button :hover{
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  }
